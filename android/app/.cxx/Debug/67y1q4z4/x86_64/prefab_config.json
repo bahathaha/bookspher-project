@@ -3,8 +3,6 @@
   "prefabPath": "C:\\Users\\a8954\\.gradle\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.1.0\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\cli-2.1.0-all.jar",
   "packages": [
     "C:\\Users\\a8954\\.gradle\\caches\\9.0.0\\transforms\\ad9dcb2ae726deaab4135491eabd73d8\\transformed\\react-android-0.83.1-debug\\prefab",
-    "C:\\Users\\a8954\\Ap\\node_modules\\react-native-reanimated\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
-    "C:\\Users\\a8954\\Ap\\node_modules\\react-native-worklets\\android\\build\\intermediates\\prefab_package\\debug\\prefab",
     "C:\\Users\\a8954\\.gradle\\caches\\9.0.0\\transforms\\597b2434c478d8de8641069d0f86b017\\transformed\\hermes-android-0.14.0-debug\\prefab",
     "C:\\Users\\a8954\\.gradle\\caches\\9.0.0\\transforms\\07e40cd42c84d0fcc0417db2af24c646\\transformed\\fbjni-0.7.0\\prefab"
   ]

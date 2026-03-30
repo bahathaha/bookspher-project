@@ -3,14 +3,11 @@
     "C:\\Users\\a8954\\Ap\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\@react-native-community\\slider\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\@react-native-google-signin\\google-signin\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
-    "C:\\Users\\a8954\\Ap\\node_modules\\react-native-gesture-handler\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\react-native-image-picker\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
-    "C:\\Users\\a8954\\Ap\\node_modules\\react-native-reanimated\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\react-native-screens\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\react-native-svg\\android\\src\\main\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\react-native-vector-icons\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
-    "C:\\Users\\a8954\\Ap\\node_modules\\react-native-worklets\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
     "C:\\Users\\a8954\\Ap\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
@@ -74,16 +71,6 @@
       "abi": "x86",
       "artifactName": "react_codegen_rnasyncstorage"
     },
-    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
-      "toolchain": "toolchain",
-      "abi": "x86",
-      "artifactName": "react_codegen_rngesturehandler_codegen"
-    },
-    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
-      "toolchain": "toolchain",
-      "abi": "x86",
-      "artifactName": "react_codegen_rnreanimated"
-    },
     "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
       "toolchain": "toolchain",
       "abi": "x86",
@@ -105,11 +92,6 @@
         "C:\\Users\\a8954\\.gradle\\caches\\9.0.0\\transforms\\ad9dcb2ae726deaab4135491eabd73d8\\transformed\\react-android-0.83.1-debug\\prefab\\modules\\jsi\\libs\\android.x86\\libjsi.so",
         "C:\\Users\\a8954\\.gradle\\caches\\9.0.0\\transforms\\07e40cd42c84d0fcc0417db2af24c646\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.x86\\libfbjni.so"
       ]
-    },
-    "react_codegen_rnworklets::@68f58d84d4754f193387": {
-      "toolchain": "toolchain",
-      "abi": "x86",
-      "artifactName": "react_codegen_rnworklets"
     },
     "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
       "toolchain": "toolchain",
